@@ -2,7 +2,8 @@
 Um projeto de teste com um arquivo README ✅
 
 
-<IMG SRC="./https://tenor.com/pt-BR/view/test-gif-20712302" ALT ="GIF MEME, APENAS DE TESTE"> 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 
 ## Tecnologias utilizadas
